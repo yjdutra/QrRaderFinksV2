@@ -16,9 +16,9 @@ Este aplicativo permite que você leia QR Codes 📷 e salve links 📌 para ace
 ## Capturas de Tela 📸
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github.com/yjdutra/QrRaderFinksV2/blob/master/assets/pic01.jpeg?raw=true" width="300">
-  <img src="https://github.com/yjdutra/QrRaderFinksV2/blob/master/assets/pic02.jpeg?raw=true" width="300">
-  <img src="https://github.com/yjdutra/QrRaderFinksV2/blob/master/assets/pic03.jpeg?raw=true" width="300">
+  <img src="https://github.com/yjdutra/QrRaderFinksV2/blob/master/assets/pic01.jpeg?raw=true" width="200">
+  <img src="https://github.com/yjdutra/QrRaderFinksV2/blob/master/assets/pic02.jpeg?raw=true" width="200">
+  <img src="https://github.com/yjdutra/QrRaderFinksV2/blob/master/assets/pic03.jpeg?raw=true" width="200">
 </div>
 
 ## Tecnologias Utilizadas 🛠️
